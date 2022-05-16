@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Login{
+  width: 50%;
+  background : rgb(203, 14, 162);
+}
