@@ -3,8 +3,7 @@ import Login from './Login'
 import Professor from './Professor'
 function App() {
   return (
-    <div className="App">
-          <Login />
+    <div className="App">          
           <Professor />
     </div>
   );
